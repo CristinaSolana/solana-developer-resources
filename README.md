@@ -1,10 +1,8 @@
 ## :brain: Concepts
----
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
 
 
 ## :page_facing_up: Tutorials
----
 - [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
@@ -12,20 +10,17 @@
 
 
 ## :tv: Videos
----
 - [Intro to Solana Programming Mode](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 - [Figment Solana Learn Pathway](https://www.youtube.com/watch?v=0I8d0doTZuw)
 - [Programming Solana Series](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 
 
 ## :books: Courses
----
 - [Programming on Solana: An Introduction](https://solhack.com/courses/programming-on-solana-an-introduction/)
 - [Solana Security Audits](https://solhack.com/courses/solana-security-audit-workshop-by-solend/)
 
 
 ## :computer: Example Apps
----
 - [Create Mint and Transfer Tokens](https://github.com/solana-labs/solana-program-library/blob/master/token/js/examples/create_mint_and_transfer_tokens.js)
 - [Get Account Info](https://github.com/solana-labs/solana-web3.js/blob/master/examples/get_account_info.js)
 - [Sending SOL](https://github.com/solana-labs/solana-web3.js/blob/master/examples/send_sol.js)
@@ -33,7 +28,6 @@
 
 
 ## :hammer: Tools
----
 - CLI
     - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
     - [Solana SPL Token CLI](https://spl.solana.com/token)
@@ -53,8 +47,7 @@
         - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
         - [Displaying Metaplex NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
 
-## Languages
----
+## :nerd_face: Languages
 - TypeScript
     - [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
     - [Docs](https://www.typescriptlang.org/docs/)
