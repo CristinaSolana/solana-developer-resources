@@ -26,6 +26,7 @@
 - [Get Account Info](https://github.com/solana-labs/solana-web3.js/blob/master/examples/get_account_info.js)
 - [Sending SOL](https://github.com/solana-labs/solana-web3.js/blob/master/examples/send_sol.js)
 - [TokenSwap | UniSwap clone](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
+- [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
 
 
 ## :hammer: Tools
@@ -47,6 +48,7 @@
         - [Docs](https://docs.metaplex.com/)
         - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
         - [Displaying Metaplex NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
+        - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
 
 ## :nerd_face: Languages
 - TypeScript
