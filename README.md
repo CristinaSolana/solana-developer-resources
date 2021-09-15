@@ -4,6 +4,7 @@
 
 
 ## :page_facing_up: Tutorials
+- [Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
@@ -41,12 +42,12 @@
 
 - Frameworks
     - [dApp Scaffold](https://github.com/solana-labs/dapp-scaffold)
-    - Anchor
+    - :anchor: Anchor
         - [Getting Started with Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
         - :tv: [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
         - :tv: [How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
-    - Metaplex (NFT metadata)
+    - :framed_picture: Metaplex (NFT metadata)
         - [Docs](https://docs.metaplex.com/)
         - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
         - [Displaying Metaplex NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
