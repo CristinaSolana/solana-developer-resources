@@ -36,14 +36,16 @@
 
 - SDKs
     - [Solana web3 SDK](https://solana-labs.github.io/solana-web3.js/)
+            - [Quickstart Guide](https://github.com/solana-labs/solana/blob/master/docs/src/developing/clients/javascript-api.md)
     - [Solana Rust SDK](https://docs.rs/solana-program/1.6.1/solana_program/index.html)
 
 - Frameworks
     - [dApp Scaffold](https://github.com/solana-labs/dapp-scaffold)
     - Anchor
         - [Getting Started with Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
-        - [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
+        - :tv: [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+        - :tv: [How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
     - Metaplex (NFT metadata)
         - [Docs](https://docs.metaplex.com/)
         - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
