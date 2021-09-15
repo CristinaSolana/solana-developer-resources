@@ -4,7 +4,7 @@
 
 
 ## :page_facing_up: Tutorials
-- [Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
