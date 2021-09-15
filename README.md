@@ -51,6 +51,7 @@
         - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
         - [Displaying Metaplex NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
         - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
+        - :tv: [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
 
 ## :nerd_face: Languages
 - TypeScript
