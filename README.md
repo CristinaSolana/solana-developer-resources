@@ -1,3 +1,5 @@
+# Solana Developer Resources
+
 ## :brain: Concepts
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
 - [Solana 101](https://2501babe.github.io/posts/solana101.html)
@@ -8,7 +10,6 @@
 - [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
-- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
 
 
 ## :tv: Videos
@@ -17,7 +18,7 @@
 - [Programming Solana Series](https://www.youtube.com/playlist?list=PL41Cw3fN3CfdbmhgxADwyDyIoDrxc22v2)
 
 
-## :books: Courses
+## :woman_teacher: Courses
 - [Programming on Solana: An Introduction](https://solhack.com/courses/programming-on-solana-an-introduction/)
 - [Solana Security Audits](https://solhack.com/courses/solana-security-audit-workshop-by-solend/)
 
@@ -27,7 +28,6 @@
 - [Get Account Info](https://github.com/solana-labs/solana-web3.js/blob/master/examples/get_account_info.js)
 - [Sending SOL](https://github.com/solana-labs/solana-web3.js/blob/master/examples/send_sol.js)
 - [TokenSwap | UniSwap clone](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
-- [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
 
 
 ## :hammer: Tools
@@ -47,12 +47,6 @@
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
         - :tv: [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
         - :tv: [How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
-    - :framed_picture: Metaplex (NFT metadata)
-        - [Docs](https://docs.metaplex.com/)
-        - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
-        - [Displaying Metaplex NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
-        - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
-        - :tv: [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
 
 ## :nerd_face: Languages
 - TypeScript
@@ -65,3 +59,22 @@
     - [Official Rust Book](https://doc.rust-lang.org/book/)
     - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
     - [How Rusty is Your Rust Lang Course](https://solhack.com/courses/how-rusty-is-your-rust-lang/)
+
+
+## :framed_picture: NFTs
+
+### :page_facing_up: Tutorials
+- [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+- Metaplex
+    - [Docs](https://docs.metaplex.com/)
+    - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
+    - [Displaying NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
+    - Candy Machine
+        - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
+        - [How to Mint an NFT on Solana Using Candy Machine](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine)
+
+### :computer: Example Apps
+- [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
+
+#### :tv: Videos
+- [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
