@@ -46,8 +46,8 @@
         - [Getting Started with Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
         - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
-        - :tv: [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
-        - :tv: [How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
+        - :tv: &nbsp;[Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+        - :tv: &nbsp;[How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
 
 ## :nerd_face: Languages
 - TypeScript
