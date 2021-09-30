@@ -45,6 +45,7 @@
     - :anchor: Anchor
         - [Getting Started with Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
+        - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
         - :tv: [Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
         - :tv: [How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
 
@@ -68,6 +69,8 @@
 - Metaplex
     - [Docs](https://docs.metaplex.com/)
     - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
+    - [Metaplex Architecture & Developer Guide](https://medium.com/metaplex/metaplex-architecture-b94a64c37130)
+    - [Metaplex Metadata Standard](https://medium.com/metaplex/metaplex-metadata-standard-45af3d04b541)
     - [Displaying NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
     - Candy Machine
         - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
@@ -78,3 +81,10 @@
 
 #### :tv: Videos
 - [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
+
+
+## :test_tube: Experiments
+
+### Fair-Launch Protocol
+a system for offering fair NFT project launches while protecting both the community and the artists
+- [Fair-Launch Protocol](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)
