@@ -79,9 +79,6 @@
 ### :computer: Example Apps
 - [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
 
-### :tv: Videos
-- [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
-
 
 ## :test_tube: Experiments
 
