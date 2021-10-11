@@ -21,7 +21,7 @@
 ## :woman_teacher: Courses
 - [Programming on Solana: An Introduction](https://solhack.com/courses/programming-on-solana-an-introduction/)
 - [Solana Security Audits](https://solhack.com/courses/solana-security-audit-workshop-by-solend/)
-- [Becoming a Solana dev from my personal experience](https://github.com/ilmoi/solana-onboarding)
+- [Solana Development Onboarding: An Action List](https://github.com/ilmoi/solana-onboarding)
 
 
 ## :computer: Example Apps
