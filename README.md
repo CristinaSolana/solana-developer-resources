@@ -7,9 +7,9 @@
 
 ## :page_facing_up: Tutorials
 - [Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
-- [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
+- [Solana Cookbook: TypeScript and Rust recipes](https://solanacookbook.com/)
 
 
 ## :tv: Videos
@@ -24,10 +24,15 @@
 
 
 ## :computer: Example Apps
+- [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Create Mint and Transfer Tokens](https://github.com/solana-labs/solana-program-library/blob/master/token/js/examples/create_mint_and_transfer_tokens.js)
 - [Get Account Info](https://github.com/solana-labs/solana-web3.js/blob/master/examples/get_account_info.js)
 - [Sending SOL](https://github.com/solana-labs/solana-web3.js/blob/master/examples/send_sol.js)
 - [TokenSwap | UniSwap clone](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
+
+
+## :hand: Hands-on Projects
+- [buildspace: Ship an epic Web3 app on Solana with React and Rust](https://buildspace.so/learn-solana)
 
 
 ## :hammer: Tools
@@ -48,6 +53,7 @@
         - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
         - :tv: &nbsp;[Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
         - :tv: &nbsp;[How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
+
 
 ## :nerd_face: Languages
 - TypeScript
@@ -76,8 +82,14 @@
         - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
         - [How to Mint an NFT on Solana Using Candy Machine](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine)
 
+
 ### :computer: Example Apps
 - [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
+
+
+## :hand: Hands-on Projects
+- [buildspace: Ship your own custom NFT collection on Solana](https://buildspace.so/solana-nfts)
+
 
 ### :tv: Videos
 - [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
@@ -88,3 +100,12 @@
 ### Fair-Launch Protocol
 a system for offering fair NFT project launches while protecting both the community and the artists
 - [Fair-Launch Protocol](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)
+
+
+## Discords you should join
+- [Solana](https://discord.gg/solana)
+- [Metaplex](https://discord.gg/bgPSyQ7D)
+- [Anchor](https://discord.gg/yT52Fm6m)
+- [Anchor/Rust Study Group](https://discord.gg/kWQwSthe)
+- [Developer DAO](https://discord.gg/zXb4WjcB) 
+- [buildspace](https://discord.gg/hcUYzFpJ)
