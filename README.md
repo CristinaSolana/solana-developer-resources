@@ -21,6 +21,7 @@
 ## :woman_teacher: Courses
 - [Programming on Solana: An Introduction](https://solhack.com/courses/programming-on-solana-an-introduction/)
 - [Solana Security Audits](https://solhack.com/courses/solana-security-audit-workshop-by-solend/)
+- [Solana Development Onboarding: An Action List](https://github.com/ilmoi/solana-onboarding)
 
 
 ## :computer: Example Apps
@@ -52,7 +53,7 @@
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
         - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
         - :tv: &nbsp;[Intro to Anchor](https://www.youtube.com/watch?v=FmdPAwsqJC4)
-        - :tv: &nbsp;[How to Anchor | Ignition Workshop](https://www.twitch.tv/videos/1142817871)
+        - :tv: &nbsp;[How to Anchor | Ignition Workshop](https://youtu.be/FmdPAwsqJC4)
 
 
 ## :nerd_face: Languages
@@ -92,7 +93,7 @@
 
 
 ### :tv: Videos
-- [NFT/Metaplex | Ignition Workshop](https://www.twitch.tv/videos/1144702694)
+- [NFT/Metaplex | Ignition Workshop](https://youtu.be/GqXu8MfdEG4)
 
 
 ## :test_tube: Experiments
