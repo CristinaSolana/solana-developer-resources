@@ -67,7 +67,7 @@
     - [Official Rust Book](https://doc.rust-lang.org/book/)
     - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
     - [How Rusty is Your Rust Lang Course](https://solhack.com/courses/how-rusty-is-your-rust-lang/)
-
+    - [Tour of Rust](https://tourofrust.com/)
 
 ## :framed_picture: NFTs
 
@@ -105,7 +105,7 @@ a system for offering fair NFT project launches while protecting both the commun
 
 ## Discords you should join
 - [Solana](https://discord.gg/solana)
-- [Metaplex](https://discord.gg/bgPSyQ7D)
+- [Metaplex](https://discord.com/invite/metaplex)
 - [Anchor](https://discord.gg/yT52Fm6m)
 - [Anchor/Rust Study Group](https://discord.gg/kWQwSthe)
 - [Developer DAO](https://discord.gg/zXb4WjcB) 
