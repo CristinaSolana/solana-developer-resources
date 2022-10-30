@@ -96,13 +96,6 @@
 - [NFT/Metaplex | Ignition Workshop](https://youtu.be/GqXu8MfdEG4)
 
 
-## :test_tube: Experiments
-
-### Fair-Launch Protocol
-a system for offering fair NFT project launches while protecting both the community and the artists
-- [Fair-Launch Protocol](https://hackmd.io/FxCiD20ETZeMbfA8on9WMg?view#Fair-Launch-Protocol)
-
-
 ## Discords you should join
 - [Solana](https://discord.gg/solana)
 - [Metaplex](https://discord.com/invite/metaplex)
