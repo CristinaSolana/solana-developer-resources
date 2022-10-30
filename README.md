@@ -6,10 +6,12 @@
 
 
 ## :page_facing_up: Tutorials
+- [Solana Cookbook](https://solanacookbook.com/)
 - [Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Figment Solana Pathway](https://learn.figment.io/pathways/solana-pathway)
 - [Solana Cookbook: TypeScript and Rust recipes](https://solanacookbook.com/)
+- [SolDev](https://soldev.app/)
 
 
 ## :tv: Videos
@@ -46,9 +48,11 @@
             - [Quickstart Guide](https://github.com/solana-labs/solana/blob/master/docs/src/developing/clients/javascript-api.md)
     - [Solana Rust SDK](https://docs.rs/solana-program/1.6.1/solana_program/index.html)
 
-- Frameworks
-    - [dApp Scaffold](https://github.com/solana-labs/dapp-scaffold)
+- Frameworks and Boilerplates
+    - [Solana Labs dApp Scaffold](https://github.com/solana-labs/dapp-scaffold)
+    - [Thuglabs dApp Boilerplate](https://github.com/thuglabs/create-dapp-solana-nextjs)
     - :anchor: Anchor
+        - [Anchor Book](https://book.anchor-lang.com/) 
         - [Getting Started with Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
         - [Programming Solana Smart Contracts | Intermediate](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
         - [Learning How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
@@ -77,27 +81,30 @@
 ### :page_facing_up: Tutorials
 - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
 
-
-### :computer: Example Apps
+### :computer: Example Apps and Code
 - [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
+- [Displaying NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
 
 
 ## :hand: Hands-on Projects
 - [buildspace: Ship your own custom NFT collection on Solana](https://buildspace.so/solana-nfts)
 
+
 ## :hammer: Tools
 - Metaplex
     - [Docs](https://docs.metaplex.com/)
     - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
-    - [Metaplex Architecture & Developer Guide](https://medium.com/metaplex/metaplex-architecture-b94a64c37130)
     - [Metaplex Metadata Standard](https://medium.com/metaplex/metaplex-metadata-standard-45af3d04b541)
-    - [Displaying NFTs](https://gist.github.com/creativedrewy/9bce794ff278aae23b64e6dc8f10e906)
+    - [Metaplex Architecture & Developer Guide](https://medium.com/metaplex/metaplex-architecture-b94a64c37130)
+    - [Airdrops with Gumdrop](https://docs.metaplex.com/guides/airdrops)
     - Candy Machine
+        - [Docs](https://docs.metaplex.com/programs/candy-machine/)
         - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
         - [How to Mint an NFT on Solana Using Candy Machine](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine)
 
 ### :tv: Videos
 - [NFT/Metaplex | Ignition Workshop](https://youtu.be/GqXu8MfdEG4)
+
 
 ## Discords you should join
 - [Solana](https://discord.gg/solana)
