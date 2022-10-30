@@ -69,10 +69,23 @@
     - [How Rusty is Your Rust Lang Course](https://solhack.com/courses/how-rusty-is-your-rust-lang/)
     - [Tour of Rust](https://tourofrust.com/)
 
+## :lock: Security
+- [Awesome Solana Security](https://github.com/az0mb13/awesome-solana-security)
+
 ## :framed_picture: NFTs
 
 ### :page_facing_up: Tutorials
 - [How to Mint an NFT on Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
+
+
+### :computer: Example Apps
+- [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
+
+
+## :hand: Hands-on Projects
+- [buildspace: Ship your own custom NFT collection on Solana](https://buildspace.so/solana-nfts)
+
+## :hammer: Tools
 - Metaplex
     - [Docs](https://docs.metaplex.com/)
     - [Token Metadata](https://github.com/metaplex-foundation/metaplex/blob/b57a335552bd00b3e2e6c41ca7aa6a3ec0c689bf/rust/token-metadata/program/README.md)
@@ -83,18 +96,8 @@
         - [Using Candy-Machine](https://hackmd.io/@levicook/HJcDneEWF)
         - [How to Mint an NFT on Solana Using Candy Machine](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana-using-candy-machine)
 
-
-### :computer: Example Apps
-- [Candy-Machine-Mint (React App)](https://github.com/exiled-apes/candy-machine-mint)
-
-
-## :hand: Hands-on Projects
-- [buildspace: Ship your own custom NFT collection on Solana](https://buildspace.so/solana-nfts)
-
-
 ### :tv: Videos
 - [NFT/Metaplex | Ignition Workshop](https://youtu.be/GqXu8MfdEG4)
-
 
 ## Discords you should join
 - [Solana](https://discord.gg/solana)
