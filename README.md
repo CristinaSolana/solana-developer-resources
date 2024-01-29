@@ -75,6 +75,7 @@
 
 ## :lock: Security
 - [Awesome Solana Security](https://github.com/az0mb13/awesome-solana-security)
+- [L3X](https://github.com/VulnPlanet/l3x)
 
 ## :framed_picture: NFTs
 
