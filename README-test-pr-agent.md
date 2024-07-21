@@ -29,6 +29,7 @@
 ## :computer: Example Apps
 - [Hello World Program](https://docs.solana.com/developing/on-chain-programs/examples#helloworld)
 - [Create Mint and Transfer Tokens](https://github.com/solana-labs/solana-program-library/blob/master/token/js/examples/create_mint_and_transfer_tokens.js)
+- [Get Account Info](https://github.com/solana-labs/solana-web3.js/blob/master/examples/get_account_info.js)
 - [Sending SOL](https://github.com/solana-labs/solana-web3.js/blob/master/examples/send_sol.js)
 - [TokenSwap | UniSwap clone](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
 
