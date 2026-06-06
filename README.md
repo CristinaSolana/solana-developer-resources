@@ -48,6 +48,9 @@
             - [Quickstart Guide](https://github.com/solana-labs/solana/blob/master/docs/src/developing/clients/javascript-api.md)
     - [Solana Rust SDK](https://docs.rs/solana-program/1.6.1/solana_program/index.html)
 
+- AI Agent Tools
+    - [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for Solana AI agent wallets. Score any wallet before x402 USDC micropayments. MCP-native server at `https://intel.twzrd.xyz/mcp`. Free: `score_agent`, `preflight_check`. Paid: `get_trust_receipt` (signed Ed25519 receipt).
+
 - Frameworks and Boilerplates
     - [Solana Labs dApp Scaffold](https://github.com/solana-labs/dapp-scaffold)
     - [Thuglabs dApp Boilerplate](https://github.com/thuglabs/create-dapp-solana-nextjs)
@@ -113,3 +116,4 @@
 - [Anchor/Rust Study Group](https://discord.gg/kWQwSthe)
 - [Developer DAO](https://discord.gg/zXb4WjcB) 
 - [buildspace](https://discord.gg/hcUYzFpJ)
+
